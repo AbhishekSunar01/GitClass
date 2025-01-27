@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Guitar One",
+    "desc": "lorem asdfklasdflkasndflkasndf sadlfksadflksadfas dfasdlkfjasdflkasjdf asdfklj",
+    "price": "Rs.20,000"
+  },
+  {
+    "name": "Guitar Two",
+    "desc": "lorem asdfklasdflkasndflkasndf sadlfksadflksadfas dfasdlkfjasdflkasjdf asdfklj",
+    "price": "Rs.30,000"
+  },
+  {
+    "name": "Guitar Three",
+    "desc": "lorem asdfklasdflkasndflkasndf sadlfksadflksadfas dfasdlkfjasdflkasjdf asdfklj",
+    "price": "Rs.40,000"
+  },
+  {
+    "name": "Guitar Four",
+    "desc": "lorem asdfklasdflkasndflkasndf sadlfksadflksadfas dfasdlkfjasdflkasjdf asdfklj",
+    "price": "Rs.25,000"
+  }
+]
