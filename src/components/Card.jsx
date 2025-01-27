@@ -1,4 +1,4 @@
-export default function Card({ name, desc, price }) {
+export default function Card({ name, desc }) {
   return (
     <div className="card bg-base-100 w-96 shadow-xl">
       <figure>
